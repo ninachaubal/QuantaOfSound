@@ -5,4 +5,4 @@ This is an audio visualization project for the Social Visualization (CS 467) cla
 
 We visualize sound as "quanta" represented by circles whose colors depend on the notes being played (in accordance to the solresol scheme) and sizes depend on the amplitude of the sound. 
 
-To run the code, move the pbox2d folder from libraries into the Processing libraries folder and run the QuantaOfSound.pde sketch from within the Processing environment.
+To run the code, move the pbox2d folder from libraries into the Processing libraries folder (processing/modes/java/libraries) and run the QuantaOfSound.pde sketch from within the Processing environment.
